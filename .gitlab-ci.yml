@@ -1,0 +1,15 @@
+image: condaforge/mambaforge
+
+pages:
+  script:
+  - mamba env create -f environment.yml
+  - source activate map551
+  - export SETUPTOOLS_USE_DISTUTILS=stdlib
+  - jupyter-book build .
+  - mv _build/html/ public/
+  only:
+  - main
+  artifacts:
+    paths:
+    - public/
+

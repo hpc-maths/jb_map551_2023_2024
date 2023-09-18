@@ -1,0 +1,8 @@
+name: map551
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book
+  - numpy
+  - scipy
+  - plotly

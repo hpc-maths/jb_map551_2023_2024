@@ -1,0 +1,24 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: content/home
+parts:
+- caption:
+  chapters:
+  - file: content/mode_emploi
+  - file: content/intro_notebook
+  - file: content/latex
+- caption: Cours
+  chapters:
+  - file: content/cours/cours
+  - file: content/cours/notebooks
+- caption: Petites Classes
+  chapters:
+  - file: content/pc/pc01_intro
+    sections:
+    - file: content/pc/pc01
+  - file: content/pc/pc02_intro
+    sections:
+    - file: content/pc/pc02_pendulum
+    - file: content/pc/pc02_population
