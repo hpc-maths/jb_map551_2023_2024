@@ -10,12 +10,11 @@ Nous étudierons des exemples dans de nombreux domaines d’application comme la
 
 Les domaines sur lesquels le cours donnera une expertise sont : analyse mathématique, schémas numériques pour les systèmes d’équations différentielles, analyse de la stabilité des systèmes - bifurcation, implémentation numérique et bibliothèques de programmes permettant la simulation numérique ou l’analyse de bifurcations. Des applications sur machines permettent une analyse de la dynamique mais aussi une compréhension des schémas numériques à la base d’une simulation précise et robuste, ainsi qu’une ouverture sur les enjeux du calcul haute performance. L’ensemble des petites classes se fait au moyen de notebooks Jupyter, ce qui permet une familiarisation avec les concepts et les méthodes numériques particulièrement efficace, puis d’analyser les résultats en termes des applications. L’ensemble des techniques proposées sera illustré sur des exemples simples mais symptomatiques des enjeux des systèmes complexes rencontrés dans les véritables applications. Un mini-projet permet de mettre en œuvre les notions et méthodes enseignées et de se confronter à des systèmes appliqués dans un large spectre de domaines applicatifs.
 
+Le cours ne demande pas de pré-requis et se situe dans le cadre des départements de Mathématiques APpliquées (MAP) et de Mécanique (MEC) de l’Ecole polytechnique. Il s’inscrit dans le cadre du parcours MAP-MECA et est offert dans le cadre du PA Sciences et Défis du Spatial et du PA Energie.
 
-Le cours ne demande pas de pré-requis et se situe dans le cadre des départements de Mathématiques APpliquées (MAP) et de Mécanique (MEC) de l’Ecole polytechnique. Il s’inscrit dans le cadre du parcours MAP-MECA et est offert dans le cadre du PA Sciences et Défis du Spatial.
+L’évaluation se fait sous la forme d’un contrôle continu par évaluation de comptes rendus de Travaux Pratiques (3 CRTP obligatoires + 2 bonus - 2/3 note finale). L’évaluation finale sous la forme d’un mini-projet en binôme et d’une soutenance (1/3 note finale). 
 
-L’évaluation se fait sous la forme d’un contrôle continu par évaluation de comptes rendus de Travaux Pratiques (6 CRTP - 2/3 note finale). L’évaluation finale sous la forme d’un mini-projet en binôme et d’une soutenance (1/3 note finale). 
-
-L’équipe pédagogique est constituée de M. Massot (Cours), M. Breden (PC), L. Séries (Jupyter) et A. Loison (Mini-projets et CRTP).
+L’équipe pédagogique est constituée de M. Massot (Cours), M. Breden (PC), L. Séries (Jupyter) et Q. Houssier (Mini-projets et CRTP).
 
 ## Dynamical Systems for the modeling of multi-scale reactive media
 
@@ -30,11 +29,11 @@ We will study examples in many fields of application such as combustion, fluid m
 The areas in which the course will provide expertise are: mathematical analysis, numerical schemes for systems of differential equations, stability analysis of systems - bifurcation, numerical implementation and libraries of programs for numerical simulation or bifurcation analysis. Applications and simulation on computers allow an analysis of the dynamics but also an understanding of the numerical schemes at the basis of an accurate and robust simulation, as well as an opening on the stakes of high performance computing. All the Petite Classes rely on Jupyter notebooks, which allow a particularly effective familiarization with the concepts and numerical methods, and then to analyze the results in terms of applications. All the techniques proposed will be illustrated on simple examples but symptomatic of the stakes of complex systems encountered in real applications. A mini-project will allow the students to implement the notions and methods taught and to be confronted with systems applied in a wide range of application domains.
 
 
-The course does not require any pre-requisites and is part of the Applied Mathematics (MAP) and Mechanics (MEC) departments of the Ecole Polytechnique. It is part of the MAP-MECA track and is offered as part of the PA Sciences et Défis du Spatial.
+The course does not require any pre-requisites and is part of the Applied Mathematics (MAP) and Mechanics (MEC) departments of the Ecole Polytechnique. It is part of the MAP-MECA track and is offered as part of the PA Sciences et Défis du Spatial and et the PA Energie.
 
-The evaluation is done in the form of a continuous assessment by evaluation of reports of practical work (6 CRTP - 2/3 of final grade). The final evaluation in the form of a mini-project in pairs and a defense (1/3 final grade). 
+The evaluation is done in the form of a continuous assessment by evaluation of reports of practical work (3 mandatory CRTP + 2 bonus - 2/3 of final grade). The final evaluation in the form of a mini-project in pairs and a defense (1/3 final grade). 
 
-The pedagogical team is composed of M. Massot (Courses), M. Breden (PC), L. Séries (Jupyter) and A. Loison (Mini-projects and CRTP).
+The pedagogical team is composed of M. Massot (Courses), M. Breden (PC), L. Séries (Jupyter) and Q. Houssier (Mini-projects and CRTP).
 
 
 ### Bibliographie Mathématique :
